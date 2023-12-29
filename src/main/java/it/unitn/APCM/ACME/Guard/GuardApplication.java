@@ -1,4 +1,4 @@
-package Guard.Guard;
+package it.unitn.APCM.ACME.Guard;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
